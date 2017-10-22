@@ -1,8 +1,11 @@
-<img src="images/media/image2.jpeg" alt="big-icon" width="24" height="24" />**Plasma Data Studio**
-======================================================================================
+>   Plasma
 
-**TerraMeta Software, Inc.**  
-PlasmaSDO<sup>®</sup> and PlasmaQuery<sup>®</sup> are registered
+TerraMeta Software, Inc.
+
+-   Plasma Data Studio
+
+PlasmaSDO® and PlasmaQuery® are registered
+
 Trademarks of TerraMeta Software, Inc.
 
 **Introduction**
@@ -52,12 +55,3 @@ in-line with a standard Java Eclipse project.
 ![](media/a1d5c95c85c47d2685679af60d11cd93.png)
 
 Figure 1 - Plasma Data Studio
-
-**Installation Instructions**
-=============================
-This repository is a large binary file github repository and hosts complete zipped binaries
- of the Plasma Data Studio IDE. 
-1.) Download the latest binary by first selecting it, then clicking the <download> button.
-2.) Unzip the IDE using e.g. Winzip utility. 
-3.)     
-

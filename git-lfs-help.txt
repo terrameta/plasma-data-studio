@@ -1,0 +1,53 @@
+C:\dev-plasma-data-studio\plasma-data-studio>git lfs track
+Listing tracked patterns
+    binaries (.gitattributes)
+    *.zip (.gitattributes)
+
+C:\dev-plasma-data-studio\plasma-data-studio>git lfs status
+On branch master
+Git LFS objects to be pushed to origin/master:
+
+
+Git LFS objects to be committed:
+
+
+Git LFS objects not staged for commit:
+
+
+
+C:\dev-plasma-data-studio\plasma-data-studio>git add PDS_1.0.0.zip
+
+C:\dev-plasma-data-studio\plasma-data-studio>git lfs status
+On branch master
+Git LFS objects to be pushed to origin/master:
+
+
+Git LFS objects to be committed:
+
+        PDS.zip -> PDS_1.0.0.zip (615.9 MB)
+
+Git LFS objects not staged for commit:
+
+
+
+C:\dev-plasma-data-studio\plasma-data-studio>git commit -m "initial binary"
+[master 045ccf2] initial binary
+ 1 file changed, 3 insertions(+)
+ create mode 100644 PDS_1.0.0.zip
+
+C:\dev-plasma-data-studio\plasma-data-studio>git push -u origin master
+Username for 'https://github.com': terrameta
+Password for 'https://terrameta@github.com':
+Username for 'https://github.com': terrameta
+Password for 'https://terrameta@github.com':
+Locking support detected on remote "origin". Consider enabling it with:
+  $ git config 'lfs.https://github.com/terrameta/plasma-data-studio.git/info/lfs.locksverify' true
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 229 bytes | 0 bytes/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local objects.
+To https://github.com/terrameta/plasma-data-studio.git
+   0d8a612..045ccf2  master -> master
+Branch master set up to track remote branch master from origin.
