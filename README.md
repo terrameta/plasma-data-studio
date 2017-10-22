@@ -1,5 +1,5 @@
-<img src="images/media/image2.jpeg" alt="big-icon" width="24" height="24" />**Plasma Data Studio**
-======================================================================================
+<img src="media/899f97f67a142f224eba0adb07d46a52.png" alt="big-icon" width="32" height="32" />**Plasma Data Studio**
+======================
 
 **TerraMeta Software, Inc.**  
 PlasmaSDO<sup>®</sup> and PlasmaQuery<sup>®</sup> are registered
@@ -40,24 +40,16 @@ artifacts.
 Plasma Data Studio is an Eclipse based IDE for annotating and integrating UML
 models with Maven (M2E) based Java projects. The UML editor is derived from
 Eclipse Papyrus components. See <https://www.eclipse.org/papyrus>. It is
-centered around a custom Eclipse perspective,
+centered around a custom Eclipse perspective (Plasma perspective), capability to
+create projects and diagrams, and a custom UML palette. UML Models are annotated
+using a custom UML profile and datatypes package, both of which are fully
+integrated or registered in the IDE. The below screen shot pictures a UML model
+being edited in-line with a standard Java Eclipse project.
 
-![C:\\Users\\scinnamond\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\plasma_perspective6.png](media/899f97f67a142f224eba0adb07d46a52.png)
+![](media/b855214d143a06e9e4f712c2eef43c12.png)
 
-Plasma perspective, and a custom UML palette. UML Models are annotated using a
-custom UML profile and datatypes package, both of which are fully integrated or
-registered in the IDE. The below screen shot pictures a UML model being edited
-in-line with a standard Java Eclipse project.
+Figure 1 - Plasma Perspective Dialog
 
-![](media/a1d5c95c85c47d2685679af60d11cd93.png)
+![](media/4eebb495fa7ab2cfead10a8a3ffb06c7.png)
 
-Figure 1 - Plasma Data Studio
-
-**Installation Instructions**
-=============================
-This repository is a large binary file github repository and hosts complete zipped binaries
- of the Plasma Data Studio IDE. 
-1.) Download the latest binary by first selecting it, then clicking the <download> button.
-2.) Unzip the IDE using e.g. Winzip utility. 
-3.)     
-
+Figure 2 - Plasma Data Studio
