@@ -79,28 +79,6 @@ src/main/resources directory of your existing maven project.
 
 Figure 3 - Create Project Wizard
 
-**Creating a Plasma UML Model**
-===============================
-
-Create a new UML model and diagram into the src/main/resources directory of your
-existing maven project.
-
-1.  Right click on the resources directory, then to New-\>Other-\>Plasma as
-    below.
-
-2.  Save the model (it will have a .di extension, for diagram) in the resources
-    dir of the project.
-
-3.  Select Plasma Class Diagram for the diagram type. Then Finish the wizard.
-
-![](media/5ccc64e7623af49dc133c0c57a772677.png)
-
-![](media/9e73b22d15b35d58af79a649744b5d0c.png)
-
-![](media/15d008fe629a9172d97bbb986c8924c7.png)
-
-![](media/fc3a14ed1091415e86da52c74358a549.png)
-
 **Editing a Plasma UML Model**
 ==============================
 
